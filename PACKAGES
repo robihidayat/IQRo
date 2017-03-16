@@ -1,0 +1,6 @@
+libmysqlclient-dev
+python-dev
+libxml2-dev
+libxslt-dev
+libblas-dev
+liblapack-dev
